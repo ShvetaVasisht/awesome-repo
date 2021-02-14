@@ -4,6 +4,7 @@ layout : default
 
 About Me
 
+<details>
 <summary> Samples </summary>
   
     + nested list 1
