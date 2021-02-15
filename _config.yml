@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: My Site
 description: Test
 logo: /images/test.jpg
+is_user_page: true
 show_downloads: false
