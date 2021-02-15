@@ -8,11 +8,8 @@ Experience
 
 ***
 
-###  list:
-
-<details>
-<summary>Samples</summary>
-   
+###  Samples:
+  
    - level 1 item
         - level 2 item
         - level 2 item
@@ -20,6 +17,6 @@ Experience
             - level 3 item
    - level 1 item
     
-</details>
+
 
 Hi !!
