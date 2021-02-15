@@ -10,12 +10,9 @@ Experience
 
 ###  Samples:
   
-   - level 1 item
-        - level 2 item
-        - level 2 item
-            - level 3 item
-            - level 3 item
-   - level 1 item
+   - [Sample 1](./sample1.md).
+        
+   - sample 2 item
     
 
 
