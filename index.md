@@ -9,14 +9,13 @@ Experience
 <details>
 <summary>Samples</summary>
 
-    - markdown list 1
-
-        - nested list 1
+    - level 1 item
+        - level 2 item
+        - level 2 item
+            - level 3 item
+            - level 3 item
+    - level 1 item
     
-        - nested list 2
-    
-    - markdown list 2
-
 </details>
 
 Hi !!
