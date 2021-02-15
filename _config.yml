@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: My Site
 description: Test
 logo: /images/test.jpg
-is_user_page: true
+is_user_page: https://github.com/ShvetaVasisht
 show_downloads: false
