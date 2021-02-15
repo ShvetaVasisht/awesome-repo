@@ -4,17 +4,16 @@ layout : default
 
 About Me
 
+Experience
+
 <details>
-  
-<summary> Samples </summary>
+<summary>Samples</summary>
 
- + nested list 1
- 
- + nested list 2
- 
- + nested list 3
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
 
-    
- </details>
+</details>
 
 Hi !!
