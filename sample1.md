@@ -6,6 +6,6 @@ layout: default
 
 Sample 1
 
-/images/Robo1.jpg
+![Robo](/images/Robo1.jpg)
 
 [back](./)
